@@ -1,7 +1,10 @@
 2013-Berlin
 ===========
 
-LinguaCamp #1 2013 Berlin
+## LinguaCamp #1 2013 Berlin
+
+EN: This are the source files for LinguaCamp 2013 Berlin
+
 
 LinguaCamp 2013 Berlin code & text is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
 Based on a work at https://github.com/linguacamp/2013-Berlin.
