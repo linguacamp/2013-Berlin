@@ -17,7 +17,7 @@
 * ...
 
 ## 4 What is the schedule ?
-* Es gibt kein vorher festgelegtes Programm
+* The schedule is decided on the day, by those who come.
 * Das Tages-Programm ergibt sich aus den «Sessions», die von «Teilgebern» vorgeschlagen werden und für die sich andere Teilnehmer interessieren
 * Teilnehmer können Sessions spontan anfragen
 
@@ -30,7 +30,7 @@ Hier ein paar Beispiele aus der Vorschlagsliste:
 * Wie geht "Open Blended Language Learning"?
 * ...
 
-## 6 What does it cost ?
+## 6 How much does it cost ?
 * Dank unserer Sponsoren ist die Teilnahme kostenlos. Es gibt aber wie bei Barcamps üblich ein Prinzip des Gebens und Nehmens:
 
 ## 7 What can I contribute ?
@@ -45,7 +45,7 @@ Hier ein paar Beispiele aus der Vorschlagsliste:
 * die FU Berlin-Dahlem
 Vielen Dank!
 
-## 9 Who are the orgnizers ?
+## 9 Who are the organizers ?
 Nach außen wird das LinguaCamp Berlin vertreten durch:
 * Christian Reuter, Sprachtrainer, Autor, Qualilangues Paris
 * Dr. Esther Debus-Gregor, Edyssee, Redaktion - Beratung - Wissensorganisation
