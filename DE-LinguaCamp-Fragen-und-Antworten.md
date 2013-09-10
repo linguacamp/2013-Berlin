@@ -80,6 +80,7 @@ Auf Internet:
 * linguacamp.org
 * twitter: @linguacamps
 * scoop.it/linguacamp
+* vimeo.com/linguacamp
 * facebook.com/linguacamps
 
 
