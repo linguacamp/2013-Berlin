@@ -68,16 +68,17 @@ Auf einer der folgenden Webseiten:
 * Sonntag, den 22. Sept 2013 von 10-17 Uhr
 Am Samstagmorgen ist die große Vorstellungsrunde.
 
-## 12 Wo?
+## 13 Wo?
 * FU Berlin Dahlem Seminarzentrum
 * in der Rost- und Silberlaube
 * Otto-von-Simson-Str. 26
 * 14195 Berlin-Dahlem
-## Mit welchem Transportmittel?
+
+## 14 Mit welchem Transportmittel?
 * U-Bahn U3 bis Haltestelle «Dahlem Dorf» oder «Thielplatz» (zu Fuß ca. 12 min)
 * Bus M11 bis Haltestelle «Löhleinstraße» (zu Fuß ca. 3 min)
 
-## 12 Mehr Infos
+## 15 Mehr Infos
 Auf Internet:
 * http://linguacamp.org
 * http://linguacamp.com
