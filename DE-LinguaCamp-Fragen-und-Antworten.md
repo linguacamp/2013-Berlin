@@ -3,10 +3,12 @@
 ## 1 Was ist ein Linguacamp?
 * eine internationale Mitmachkonferenz, ein «Barcamp», bei dem es kein Publikum gibt, nur aktive Teilnehmer, alle sind «Teilgeber»
 * den Kern der Veranstaltung bilden mehr-sprachige Workshops, «Sessions», die jeweils am Samstag- und Sonntagmorgen von den Teilnehmern vorgestellt werden. 
+
 ## 2 Wer kann teilnehmen?
 * Fremdsprachenlerner aller Länder und aller
 Altersstufen, Schüler (ab 14 Jahre), Studenten, Rentner, Berufsanfänger, Berufstätige und Arbeitssuchende, Freelancer, Gründer und Unternehmer, Lehrer, Dozenten, Trainer, Gründer und Kreative im Bereich Sprachen, Schul- und Kurs-Leiter, Autoren, Content-Entwickler, Illustratoren, Grafik-Designer, Fotografen, Video-Produzenten, Sprecher, Schauspieler, Über-
 setzer, Dolmetscher, Musiker, Software-Entwickler, Sound-, Text- und Wort-Künstler, Journalisten und alle Interessierten
+
 ## 3 Was sind die Konferenzsprachen?
 * Französisch, Deutsch, Englisch
 * weitere Sprachen, je nach Teilnehmerzahl
