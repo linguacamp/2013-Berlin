@@ -33,7 +33,8 @@ Vous trouverez toutes les réponses à vos questions sur les différents sites d
 - f) Vimeo: vimeo.com/linguacamp 
 - g) Youtube: Linguacamp Channel : youtube.com/channel/UCFgg8htmwuPhJOVL1jpDr8Q Audio 
 - h) Soundcloud: soundcloud.com/linguacamp 
-- i) Audioboo: http://audioboo.fm/linguacamp 
+- i) Audioboo: http://audioboo.fm/linguacamp
+
 #### Autres réseaux sociaux 
 - j) Facebook: facebook.com/linguacamps 
 - k) Tumblr: linguacamp.tumblr.com
@@ -61,7 +62,8 @@ Bei Fragen schaut erstmal auf unsere Webseiten, insbesondere Foren und Wiki auf 
 Fröhliches LinguaCampen! :: Happy LinguaCamping! :: Joyeux LinguaCamping! 
 Christian Reuter 
 
-### Anhang 7) Links und Tags
+## Anhang 
+###7) Links und Tags
 #### Um immer im Bilde zu sein,
 bitte folgen und weiterleiten 
 - a) Hauptwebseite: linguacamp.org (=linguacamp.mixxt.de) 
@@ -72,6 +74,7 @@ bitte folgen und weiterleiten
 - g) Youtube: Linguacamp Channel : youtube.com/channel/UCFgg8htmwuPhJOVL1jpDr8Q Audio 
 - h) Soundcloud: soundcloud.com/linguacamp 
 - i) Audioboo: http://audioboo.fm/linguacamp 
+
 #### Und mehr 
 - j) Facebook: facebook.com/linguacamps 
 - k) Tumblr: linguacamp.tumblr.com
