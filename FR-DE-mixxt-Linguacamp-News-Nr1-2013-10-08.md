@@ -24,7 +24,7 @@ Nous sommes actuellement une centaine de linguacampers, toutes communautés conf
 ### VOS QUESTIONS ET SUGGESTIONS
 Vous trouverez toutes les réponses à vos questions sur les différents sites du Linguacamp. Et si malgré tout, vous n'y trouvez pas c que vous recherchez : Ecrivez vos questions et vos réponses sur la page linguacamp.org , sur la shoutbox, les forums et FAQ du wiki. Voilà, c'est tout pour l'instant ;-) Fröhliches LinguaCampen! :: Happy LinguaCamping ! :: Joyeux LinguaCamping ! Christian Reuter 
 ### LIENS ET TAGS A CONSULTER ET A FAIRE PASSER 
-Pour suivre l'actualité du Linguacamp: 
+#### Pour suivre l'actualité du Linguacamp: 
 - a) Page principale: linguacamp.org (=linguacamp.mixxt.de) 
 - b) Nouveautés et liens utiles commentés: scoop.it/linguacamp 
 - c) Twitter: @linguacamps Hashtag #lingcb13 En plus: 
@@ -33,7 +33,8 @@ Pour suivre l'actualité du Linguacamp:
 - f) Vimeo: vimeo.com/linguacamp 
 - g) Youtube: Linguacamp Channel : youtube.com/channel/UCFgg8htmwuPhJOVL1jpDr8Q Audio 
 - h) Soundcloud: soundcloud.com/linguacamp 
-- i) Audioboo: http://audioboo.fm/linguacamp Autres réseaux sociaux 
+- i) Audioboo: http://audioboo.fm/linguacamp 
+#### Autres réseaux sociaux 
 - j) Facebook: facebook.com/linguacamps 
 - k) Tumblr: linguacamp.tumblr.com
 
@@ -61,7 +62,8 @@ Fröhliches LinguaCampen! :: Happy LinguaCamping! :: Joyeux LinguaCamping!
 Christian Reuter 
 
 ### Anhang 7) Links und Tags
-Um immer im Bilde zu sein, bitte folgen und weiterleiten 
+#### Um immer im Bilde zu sein,
+bitte folgen und weiterleiten 
 - a) Hauptwebseite: linguacamp.org (=linguacamp.mixxt.de) 
 - b) News und Links: scoop.it/linguacamp 
 - c) Twitter: @linguacamps Hashtag #lingcb13 Außerdem 
@@ -69,7 +71,8 @@ Um immer im Bilde zu sein, bitte folgen und weiterleiten
 - f) Vimeo: vimeo.com/linguacamp 
 - g) Youtube: Linguacamp Channel : youtube.com/channel/UCFgg8htmwuPhJOVL1jpDr8Q Audio 
 - h) Soundcloud: soundcloud.com/linguacamp 
-- i) Audioboo: http://audioboo.fm/linguacamp Und mehr 
+- i) Audioboo: http://audioboo.fm/linguacamp 
+#### Und mehr 
 - j) Facebook: facebook.com/linguacamps 
 - k) Tumblr: linguacamp.tumblr.com
 
