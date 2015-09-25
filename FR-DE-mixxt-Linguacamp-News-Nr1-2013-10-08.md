@@ -34,7 +34,9 @@ Pour suivre l'actualité du Linguacamp:
 - g) Youtube: Linguacamp Channel : youtube.com/channel/UCFgg8htmwuPhJOVL1jpDr8Q Audio 
 - h) Soundcloud: soundcloud.com/linguacamp 
 - i) Audioboo: http://audioboo.fm/linguacamp Autres réseaux sociaux 
-- j) Facebook: facebook.com/linguacamps k) Tumblr: linguacamp.tumblr.com 
+- j) Facebook: facebook.com/linguacamps 
+- k) Tumblr: linguacamp.tumblr.com
+
 ====================================== 
 < FR: fin
 --------------------------------------
@@ -69,7 +71,8 @@ Um immer im Bilde zu sein, bitte folgen und weiterleiten
 - h) Soundcloud: soundcloud.com/linguacamp 
 - i) Audioboo: http://audioboo.fm/linguacamp Und mehr 
 - j) Facebook: facebook.com/linguacamps 
-- k) Tumblr: linguacamp.tumblr.com 
+- k) Tumblr: linguacamp.tumblr.com
+
 ====================================== 
 < DE: Ende
 --------------------------------------
