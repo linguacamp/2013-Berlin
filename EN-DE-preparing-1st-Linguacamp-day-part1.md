@@ -11,7 +11,11 @@ Yes, of course, you can come whenever you want. The event runs Saturday and Sund
 No, you are free to determine what you would like to do and how much you bring to the event. A session offered on your own or even in tandem or trio would be great, of course, but there are also plenty of other ways you can participate. ### 3. How else can I help?
 We are still looking for helpers for the following tasks: • Check-in, information, coat and baggage room, handling materials • Technical assistance during the sessions (Web, audio, video, computer) • Moving materials, setting up and cleaning up rooms • Written translation and interpretation during the sessions 
 ### 4. How do I sign up to help? 
-In one of the helper forums: • Meetup: http://www.meetup.com/linguacamp-berlin/messages/boards/thread/38117642 • Mixxt.de: http://linguacamp.mixxt.de/networks/forum/category.95611 • Facebook: https://www.facebook.com/events/653446344688178/ Stay tuned for more information! 
+In one of the helper forums:
+- Meetup: http://www.meetup.com/linguacamp-berlin/messages/boards/thread/38117642
+- Mixxt.de: http://linguacamp.mixxt.de/networks/forum/category.95611
+- Facebook: https://www.facebook.com/events/653446344688178
+- Stay tuned for more information! 
 
 =============================================================== 
 
