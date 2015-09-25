@@ -19,8 +19,14 @@ In one of the helper forums: • Meetup: http://www.meetup.com/linguacamp-berlin
 Wir freuen uns, euch ab Samstag an der Uni-Dahlem begrüßen zu können. Barcamps messen der Eigeninitiative, Spontanäität und Kreativität der TeilgeberInnen einen hohen Stellenwert bei. Es gibt keine strengen Regeln. Damit ihr euch aber besser zurecht findet, hier ein paar Hinweise. 
 ### 1. Kann ich auch erst nach 9:30 kommen?
 Ja, natürlich, du kannst kommen, wann du willst. Wir sind Samstag und Sonntag sicher bis 18:00 da. Bedenke nur, je eher du kommst, desto mehr Zeit hast du fürs Einchecken und zum (Tandem-)Netzwerken, außerdem ist die Wahrscheinlichkeit höher, noch etwas vom Frühstücksbuffet und von den Sponsoren-Geschenken abzubekommen. Wer zuerst kommt, mahlt zuerst. Um 10:00 wollen wir dann das LinguaCamp eröffnen, die kurze Vostellungsrunde aller Teilnehmer soll um 10:15 starten gefolgt von der Kurz-Vorstellung und Abstimmung der Session-Themen, d.h. die Festlegung des Tagesprogramms. Es wäre schade, das zu verpassen. 
-### 2. Muss ich selber eine Session anbieten? Nein, dir steht frei, zu bestimmen, was du tust und wie stark du dich einbringst. Eine Session anbieten allein oder gar im Tandem oder Trio wäre natürlich prima, es gibt aber genug anderes zu tun. 
+### 2. Muss ich selber eine Session anbieten?
+Nein, dir steht frei, zu bestimmen, was du tust und wie stark du dich einbringst. Eine Session anbieten allein oder gar im Tandem oder Trio wäre natürlich prima, es gibt aber genug anderes zu tun. 
 ### 3. Wobei kann ich sonst helfen? Bei folgenden Aufgaben suchen wir noch Helfer • Chekin, Auskunft, Garderobe und Gepäck, Material-Ausgabe • Technische Assistenz bei den Sessions (Internet, Audio, Video, Computer) • Bring-, Räum- und Aufräumdienste • Übersetzer- und Dolmetscherdienste, schriftlich während der Sessions 
-### 4. Wo kann ich mich zum Helfen melden? in einem der Helferforen: • Meetup: http://www.meetup.com/linguacamp-berlin/messages/boards/thread/38117642 • Mixxt.de: http://linguacamp.mixxt.de/networks/forum/category.95611 • Facebook: https://www.facebook.com/events/653446344688178/ Stay tuned für weitere Informationen!
+### 4. Wo kann ich mich zum Helfen melden?
+in einem der Helferforen: 
+- Meetup: http://www.meetup.com/linguacamp-berlin/messages/boards/thread/38117642
+- Mixxt.de: http://linguacamp.mixxt.de/networks/forum/category.95611
+- Facebook: https://www.facebook.com/events/653446344688178/ 
+- Stay tuned für weitere Informationen!
 
 #### Gesendet 19.09.2013 22:28 - von Sherri Williams	
