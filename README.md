@@ -3,9 +3,9 @@
 
 ## LinguaCamp #1 2013 Berlin
 
-EN: This are the source files for LinguaCamp 2013 Berlin
-FR: Voici les textes d'origine pour le LinguaCamp 2013 Berlin
-DE: Dies sind die Quelltexte für das LinguaCamp 2013 Berlin
+- EN: This are the source files for LinguaCamp 2013 Berlin
+- FR: Voici les textes d'origine pour le LinguaCamp 2013 Berlin
+- DE: Dies sind die Quelltexte für das LinguaCamp 2013 Berlin
 
 
 LinguaCamp 2013 Berlin code & text is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
