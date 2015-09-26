@@ -69,7 +69,8 @@ bitte folgen und weiterleiten
 - a) Hauptwebseite: linguacamp.org (=linguacamp.mixxt.de) 
 - b) News und Links: scoop.it/linguacamp 
 - c) Twitter: @linguacamps Hashtag #lingcb13 Außerdem 
-- d) Webseite: linguacamp.net e) Tageszähler und bald mehr: linguacamp.com Videos 
+- d) Webseite: linguacamp.net 
+- e) Tageszähler und bald mehr: linguacamp.com Videos 
 - f) Vimeo: vimeo.com/linguacamp 
 - g) Youtube: Linguacamp Channel : youtube.com/channel/UCFgg8htmwuPhJOVL1jpDr8Q Audio 
 - h) Soundcloud: soundcloud.com/linguacamp 
